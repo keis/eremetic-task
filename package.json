@@ -1,0 +1,24 @@
+{
+  "name": "eremetic-task",
+  "version": "0.0.0",
+  "description": "Launch an eremetic task and wait for it to finish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "eremetic",
+    "mesos",
+    "one-off"
+  ],
+  "author": "David Keijser <keijser@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^5.4.1",
+    "pinkie-promise": "^2.0.0"
+  }
+}
