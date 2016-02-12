@@ -1,6 +1,6 @@
 {
   "name": "eremetic-task",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Launch an eremetic task and wait for it to finish",
   "main": "index.js",
   "scripts": {
